@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.pyo
+
+sorted_output/
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+.vscode/
